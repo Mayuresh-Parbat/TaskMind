@@ -148,14 +148,8 @@ Work smarter
 Improve consistency
 Increase productivity
 Achieve goals effectively
-📜 License
 
-This project is licensed under the MIT License.
 
 👨‍💻 Author
 
-Mayuresh
-
-⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub.
+Mayuresh parbat
