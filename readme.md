@@ -8,7 +8,7 @@ Unlike traditional to-do applications, TaskMind leverages Artificial Intelligenc
 
 ---
 
-# ✨ Key Features
+# Key Features
 
 ## 🧠 Smart Task Management
 - Create, update, delete, and organize tasks efficiently
