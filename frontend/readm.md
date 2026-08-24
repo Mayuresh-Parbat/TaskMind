@@ -20,4 +20,4 @@ This folder contains the React.js frontend application for HabitForge.
 - Axios
 - Recharts
 
-Status: Planning Phase
+
