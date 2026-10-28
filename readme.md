@@ -152,4 +152,4 @@ Achieve goals effectively
 
 👨‍💻 Author
 
-Mayuresh parbat
+**Mayuresh parbat**
