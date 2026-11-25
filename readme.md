@@ -5,7 +5,6 @@
 TaskMind is an advanced AI-driven productivity and task management platform designed to help users organize work, improve focus, increase efficiency, and achieve goals intelligently.
 
 Unlike traditional to-do applications, TaskMind leverages Artificial Intelligence to provide smart scheduling, productivity analytics, intelligent recommendations, and personalized work insights.
-
 ---
 
 # Key Features
@@ -131,7 +130,6 @@ TaskMind is built to combine:
 Artificial Intelligence
 Productivity Engineering
 Data Analytics
-Full Stack Development
 User Experience Design
 Real-Time Insights
 
